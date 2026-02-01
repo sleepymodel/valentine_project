@@ -18,7 +18,8 @@ body {
 }
 
 .gif_container img {
-    width: 100%; 
-    max-width: 500px; 
-    height: auto; 
+    max-width: 500px;
+    max-height: 280px;  
+    width: auto;
+    height: auto;
 }
