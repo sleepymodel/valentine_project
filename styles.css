@@ -17,6 +17,12 @@ body {
     font-size: 2.5em;
     color: #d32f2f;
   }
+.container h2 {
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-bottom: 8px;
+    opacity: 0.8;
+}
   
   .buttons {
     margin-top: 20px;
